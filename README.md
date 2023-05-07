@@ -7,7 +7,6 @@ A weather application that utilizes the RapidAPI Weather API to fetch and displa
 - [Usage](#usage)
 - [Features](#features)
 - [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgements](#acknowledgements)
 - [Contact](#contact)
 
