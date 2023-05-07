@@ -60,13 +60,3 @@ If you have any questions, feedback, or suggestions, please feel free to reach o
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Poooo_13)
 
 
-### Connect with me:
-I
-[<img align="left" alt="mariabarkouzou | YouTube" width="30px" src="https://image.flaticon.com/icons/png/512/1384/1384060.png" />1[youtube]
-[<img align="left" alt="mariabarkouzou | LinkedIn" width="30px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
-<a href="mailto:mbarkouzou@gmail.com"><img align="left" alt="mariabarkouzou | GMail" width="30px" src="https://image.flaticon.com/icons/png/512/732/732200.png" />
-[<img align="left" alt="mariabarkouzou | Stack Overflow" width="30px" src="https://image.flaticon.com/icons/png/512/2111/2111628.png" />][stackoverflow]
-<br />
-<br />
-
-
