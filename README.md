@@ -1,7 +1,5 @@
 # Weather Project
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-
 A weather application that utilizes the RapidAPI Weather API to fetch and display weather information based on user input. The project is built using HTML, CSS, and JavaScript.
 
 ## Table of Contents
@@ -51,10 +49,6 @@ git clone: https://github.com/Poonam-13/Weather.git
 Contributions are welcome! If you'd like to contribute to the project.
 
 Please ensure that your code follows the project's coding conventions and includes appropriate tests.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
