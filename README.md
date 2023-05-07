@@ -1,4 +1,4 @@
-# Weather Project
+# Weather Project ☔
 
 A weather application that utilizes the RapidAPI Weather API to fetch and display weather information based on user input. The project is built using HTML, CSS, and JavaScript.
 
@@ -11,7 +11,7 @@ A weather application that utilizes the RapidAPI Weather API to fetch and displa
 - [Acknowledgements](#acknowledgements)
 - [Contact](#contact)
 
-## Installation
+## 🚀Installation
 
 1. Clone the repository:
 git clone: https://github.com/Poonam-13/Weather.git
@@ -21,7 +21,7 @@ git clone: https://github.com/Poonam-13/Weather.git
 
 3. Open the `index.html` file in a web browser.
 
-## Usage
+## 💻 Usage
 
 1. Sign up for an account on [RapidAPI](https://rapidapi.com/).
 
@@ -54,13 +54,12 @@ Please ensure that your code follows the project's coding conventions and includ
 
 This project utilizes the Weather API provided by [RapidAPI](https://rapidapi.com/).
 
-## Contact
+## 🔗Contact
 
 If you have any questions, feedback, or suggestions, please feel free to reach out:
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pooo13/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Poooo_13)
 
-- Email: poonamthakur1377@gmail.com
-- Twitter: [@Poooo_13](https://twitter.com/Poooo_13)
-- LinkedIn: [@pooo13](https://www.linkedin.com/in/pooo13/)
 
 
 
