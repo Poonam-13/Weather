@@ -53,7 +53,7 @@ Please ensure that your code follows the project's coding conventions and includ
 
 This project utilizes the Weather API provided by [RapidAPI](https://rapidapi.com/).
 
-<h3 align="left">Connect with me:</h3>
+## Connect with me:
 <p align="left">
 <a href="https://twitter.com/poooo_13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="poooo_13" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pooo13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pooo13" height="30" width="40" /></a>
